@@ -1,0 +1,41 @@
+.projectsb1 {
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+    height: 550px;
+    width: 800px;
+    position: relative;
+    top: 70px;
+    right: 100px;
+    box-shadow: 10px 10px 8px blueviolet;
+    overflow: scroll;
+    scroll-behavior: smooth;
+    justify-content: center;
+    text-align: center;
+}
+
+.projectsb3 img {
+    height: 150px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+.projects {
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.projectsb3 {
+    width: 400px;
+    height: 300px;
+    /* border: 1px solid white; */
+    box-shadow: 10px 10px 8px rgba(128, 128, 128, 0.384);
+    margin: 30px 10px;
+    border-radius: 10px;
+}
+
+.titlep h3 {
+    color: yellow;
+}

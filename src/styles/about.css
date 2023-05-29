@@ -1,0 +1,31 @@
+.aboutb1 {
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+    height: 550px;
+    width: 800px;
+    position: relative;
+    top: 70px;
+    right: 100px;
+    box-shadow: 10px 10px 8px blueviolet;
+}
+
+.aboutb2 {
+    margin: 10px 20px;
+}
+
+.aboutb2 div {
+    margin: 10px 0px;
+}
+
+.aboutme3 input {
+    padding: 0px 150px;
+    background-color: black;
+    color: black;
+}
+
+.hobbies li {
+    display: inline-block;
+    margin-left: 70px;
+}

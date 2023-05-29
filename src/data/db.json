@@ -1,0 +1,36 @@
+{
+    "education": [{
+            "Institution_name": "Sri Chaitanaya Techno School",
+            "percentage": "65.44%",
+            "stream": "SSLC",
+            "duration": "2015-2016"
+        },
+        {
+            "Institution_name": "Ballari Independent PU College",
+            "percentage": "83%",
+            "stream": "PU(Science-PCMB)",
+            "duration": "2017-2018"
+
+        },
+        {
+            "Institution_name": "Sri Chaitanaya Techno School",
+            "percentage": "8.26 CGPA",
+            "stream": "BE(Electronics and Communication)",
+            "duration": "2018-2022"
+
+        }
+    ],
+    "projects": [{
+        "image": "https://www.biyanitechnologies.com/img/library%20management%20system.jpg",
+        "title": "Library Management System",
+        "description": "It is used to manage the books in Library and we can  manipulate the store by adding new books or deleting the exists one."
+    }, {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRePqsDHlbS6FwRtc5DJHMwMwfoNIl0n2vVAA&usqp=CAU",
+        "title": "Fitness Fit",
+        "description": "It used to store data of the users/customers of the GYM and we have workouts list where it makes customer easy to choose the workout type the need and we could able to add new workouts to the list and we have added a BMI(Body Mass Index) calculator."
+    }, {
+        "image": "https://store-images.s-microsoft.com/image/apps.16894.c02476d2-2378-4f60-8290-b6d4b3842643.79a2ef6a-4775-4c79-8d93-9caf077660eb.1bbd88a4-0a17-4750-91a0-cd7d98f58e9d",
+        "title": "Weather Forecast",
+        "description": "It is used to find the Temperature and Humidity based on the location we enter and search."
+    }]
+}

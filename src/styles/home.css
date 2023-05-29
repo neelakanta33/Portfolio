@@ -1,0 +1,34 @@
+.home {
+    color: white;
+}
+
+.navbar {
+    background: black;
+    height: 100vh;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+.homeb1 {
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+    height: 550px;
+    width: 800px;
+    position: relative;
+    right: 100px;
+    box-shadow: 10px 10px 8px blueviolet;
+    top: 70px;
+}
+
+.homeb2 {
+    width: 500px;
+    margin: 150px auto;
+    text-align: center;
+}
+
+.homeb2 {
+    font-size: 25px;
+}
